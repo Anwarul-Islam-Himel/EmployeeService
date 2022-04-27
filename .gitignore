@@ -1,0 +1,6 @@
+Service/obj/
+Service/bin/
+Domain/obj/
+BlazorServerDemo/obj/
+BlazorServerDemo/bin/
+Domain/bin/
